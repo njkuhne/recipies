@@ -131,8 +131,16 @@ Begin:
 12. Rest covered in a warm location for remainder of time until Preshaping
 
 ## Preshape the Dough ##
-For Boules:
-- Form into a ball using stretch method, form into boule using bench scraper
+
+**For all shaping you will need to master a technique using your kitchen countertop and a baking bench scraper, which will allow you to shape your dough into a taught ball**
+
+Remove your dough from the container and place it onto a flat, clean, un-floured, dry, room temperature surface, like a kitchen countertop.
+
+Stretch the dough out into a rectangle and fold in the left and right sides, then 
+
+#### Shaping into a ball ####
+
+
 Let rest for 15 minutes
 
 ## Final Shaping ##
