@@ -7,7 +7,32 @@ Using Sourdough Starter Recipe found [here](sourdough_starter.md)
 2. Your dough is going to feel very wet, and in the beginning very sticky. Do not add any flour, or any other ingredients to this recipe, it will come together, trust the process.
 3. Temperature and times are all critical to this dough rising and eventually forming a great bread. The process here is slow, and results in delicious bread, but all steps are needed, nothing can be skipped.
 
-## Levain ##
+## Timing ##
+I have assembled a timing guide that should work with most peoples daily schedules and results in as little work as possible though the 27+ hour process.
+
+**Each step is described below**
+
+### Step Timing ###
+**Day One**
+
+1. 09:00 AM - Make the Levain
+2. 12:30 PM - Autolyse the Main Dough
+3. 02:00 PM - Mix the Final Dough
+4. 02:25 PM - Begin Bulk Fermentation
+5. 06:45 PM - Preshape the Dough
+6. 07:15 PM - Final Shaping
+7. 07:25 PM - Warm Proofing
+8. 07:45 PM - Cold Proofing
+
+**Day Two**
+
+1. 09:00 AM - Preheat the Oven
+2. 10:00 AM - Bake with Steam
+3. 10:20 AM - Final Bake
+4. 10:45 AM - Cool
+5. 12:45 AM - Eat!
+
+## Make the Levain ##
 _Note: this recipe will make extra levain, for loss in jars and on spoons as you make the bread recipe_
 
 #### Levain Ingredients ####
@@ -18,7 +43,7 @@ _Note: this recipe will make extra levain, for loss in jars and on spoons as you
 Mix the levain and let sit in a warm part of your house (**26 degrees celsius is best**) until doubled in size (roughly 5 hours)
 
 
-## Main Dough ##
+## Autolyse the Main Dough ##
 
 **With 1.5 hours remaining until Levain is ready, begin autolysing your dough.**
 
@@ -31,7 +56,7 @@ Mix together that main dough ingredients until all of the flour and salt has bee
 * 10 grams salt
 
 
-## Making the Dough ##
+## Make the Final Dough ##
 **When your levain is ready, mix 90 grams of levain into the dough, and mix until fully combined**
 
 To do this, pour the levain evenly over the main dough, and press your fingers through the levain and into the dough several times to evenly distribute the levain into the dough. Then mix together until both the main dough and the levain are incorporated. 
