@@ -2,8 +2,13 @@
 
 Using Sourdough Starter Recipe found [here](sourdough_starter.md)
 
+### Some tips to remember as your make this recipe ###
+1. Bread making is much more about technique than ingredients. Do not rush or skip steps, and don't be afraid to find resources to understand each technique. 
+2. Your dough is going to feel very wet, and in the beginning very sticky. Do not add any flour, or any other ingredients to this recipe, it will come together, trust the process.
+3. Temperature and times are all critical to this dough rising and eventually forming a great bread. The process here is slow, and results in delicious bread, but all steps are needed, nothing can be skipped.
+
 ## Levain ##
-_Note: this is extra starter, for loss in jars and on spoons_
+_Note: this recipe will make extra levain, for loss in jars and on spoons as you make the bread recipe_
 
 #### Levain Ingredients ####
 * 50 grams unbleached bread flour
@@ -27,9 +32,9 @@ Mix together that main dough ingredients until all of the flour and salt has bee
 
 
 ## Making the Dough ##
-**When levain is ready, mix 90 grams of levain into the dough, and mix until fully combined**
+**When your levain is ready, mix 90 grams of levain into the dough, and mix until fully combined**
 
-To do this, pour the levain evenly over the main dough, and press your fingers through the levain and into the dough to evenly distribute the levain into the dough. Then mix together until both the main dough and the levain are incorporated. 
+To do this, pour the levain evenly over the main dough, and press your fingers through the levain and into the dough several times to evenly distribute the levain into the dough. Then mix together until both the main dough and the levain are incorporated. 
 
 
 
