@@ -18,7 +18,7 @@ I have assembled a timing guide that should work with most peoples daily schedul
 1. 09:00 AM - Make the Levain
 2. 12:30 PM - Autolyse the Main Dough
 3. 02:00 PM - Mix the Final Dough
-4. 02:25 PM - Begin Bulk Fermentation
+4. 02:30 PM - Begin Bulk Fermentation
 5. 06:45 PM - Preshape the Dough
 6. 07:15 PM - Final Shaping
 7. 07:25 PM - Warm Proofing
@@ -36,9 +36,9 @@ I have assembled a timing guide that should work with most peoples daily schedul
 _Note: this recipe will make extra levain, for loss in jars and on spoons as you make the bread recipe_
 
 #### Levain Ingredients ####
-* 50 grams unbleached bread flour
-* 25 grams starter
-* 50 grams water
+* 50 grams Unbleached Bread Flour
+* 25 grams Sourdough Starter
+* 50 grams Tepid Water
 
 Mix the levain and let sit in a warm part of your house (**26 degrees celsius is best**) until doubled in size (roughly 5 hours)
 
@@ -52,8 +52,8 @@ Mix together that main dough ingredients until all of the flour and salt has bee
 #### Main Dough Ingredients ####
 * 315g Unbleached Bread Flour
 * 100g Red Wheat Flour
-* 280g water
-* 10 grams salt
+* 280g Tepid Water
+* 10g Salt
 
 
 ## Make the Final Dough ##
@@ -61,18 +61,13 @@ Mix together that main dough ingredients until all of the flour and salt has bee
 
 To do this, pour the levain evenly over the main dough, and press your fingers through the levain and into the dough several times to evenly distribute the levain into the dough. Then mix together until both the main dough and the levain are incorporated. 
 
+Rest for 30 minutes before proceeding with Bulk Fermentation
 
 
 ## Bulk Fermentation ##
-Stretch and fold
-Rest for 30 minutes
-Stretch and fold
-Rest for 30 minutes
-Stretch and fold
-Perform windowpane test
-rest for 30 minutes
 
-Preshaping
+
+## Preshape the Dough ##
 For Boules:
 - Form into a ball using stretch method, form into boule using bench scraper
 Let rest for 15 minutes
