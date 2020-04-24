@@ -1,5 +1,6 @@
-# Borrowing heavily from Sourdough bread for beginners
-# 1/2ing the recipe for single boule
+# Recipe for 1 Sourdough Boule
+
+## Using Sourdough Starter Recipe found here
 
 ## Levain ##
 50 grams unbleached bread flour
