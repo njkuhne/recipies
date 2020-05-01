@@ -33,7 +33,7 @@ I have assembled a timing guide that should work with most peoples daily schedul
 4. 10:45 AM - Cool
 5. 12:45 AM - Eat!
 
-## Make the Levain ##
+## Make the Levain (Day One, 9:00am) ##
 _Note: this recipe will make extra levain, for loss in jars and on spoons as you make the bread recipe_
 
 #### Levain Ingredients ####
@@ -44,7 +44,7 @@ _Note: this recipe will make extra levain, for loss in jars and on spoons as you
 Mix the levain and let sit covered in a warm part of your house (**26 degrees celsius is best**) until doubled in size (roughly 5 hours)
 
 
-## Autolyse the Main Dough ##
+## Autolyse the Main Dough (Day One, 12:30pm) ##
 
 **With 1.5 hours remaining until Levain is ready, begin autolysing your dough.**
 
@@ -59,7 +59,7 @@ Cover and store in the same area / temperature as the Levain
 * 10g Salt
 
 
-## Make the Final Dough ##
+## Make the Final Dough (Day One, 2:00pm) ##
 **When your levain is ready, mix 90 grams of levain into the dough, and mix until fully combined**
 
 To do this, pour the levain evenly over the main dough, and press your fingers through the levain and into the dough several times to evenly distribute the levain into the dough. Then mix together until both the main dough and the levain are incorporated. 
@@ -67,7 +67,7 @@ To do this, pour the levain evenly over the main dough, and press your fingers t
 Rest covered for 30 minutes before proceeding with Bulk Fermentation
 
 
-## Bulk Fermentation ##
+## Bulk Fermentation (Day One, 2:30pm) ##
 **Bulk fermentation is a process where the Dough is stretched and then let to rest is cycles as the yeast works to ferment the flour and water**
 
 There are two techniques you need to perform during Bulk Fermentation:
@@ -117,20 +117,20 @@ During bulk fermentation, follow this timing and process to develop the gluten a
 
 Begin:
 
-1. Stretch and fold the dough
+1. Stretch and fold the dough (Day One, 2:30pm)
 2. Rest covered for 15 minutes
-3. Stretch and fold the dough
+3. Stretch and fold the dough (Day One, 2:45pm)
 4. Rest covered for 15 minutes
-5. Stretch and fold the dough
+5. Stretch and fold the dough (Day One, 3:00pm)
 6. Rest covered for 15 minutes
-7. Coil fold the dough
+7. Coil fold the dough (Day One, 3:15pm)
 8. Rest for 30 minutes
-9. Coil fold the dough
+9. Coil fold the dough (Day One, 3:45pm)
 10. Rest for 30 minutes
-11. Coil fold the dough
-12. Rest covered in a warm location for remainder of time until Preshaping
+11. Coil fold the dough (Day One, 4:15pm)
+12. Rest covered in a warm location for remainder of time until Preshaping (for 1.5 hours)
 
-## Preshape the Dough ##
+## Preshape the Dough (Day One, 6:45pm) ##
 
 **For all shaping you will need to master a technique using your kitchen countertop and a baking bench scraper, which will allow you to shape your dough into a taught ball**
 
@@ -143,34 +143,35 @@ Stretch the dough out into a rectangle and fold in the left and right sides, the
 
 Let rest for 15 minutes
 
-## Final Shaping ##
+## Final Shaping (Day One, 7:15pm) ##
 
 Final shaping, reshape the dough, tighter than before, and flip into banneton, stitching once placed.
 
-## Warm Proofing ##
+## Warm Proofing (Day One, 7:25pm) ##
 
+Cover and leave on countertop for 20 minutes
 
-## Cold Proofing ##
+## Cold Proofing (Day One, 7:45pm) ##
 
 Cover and put into fridge for max 12 hours
 
 
-## Preheat the Oven ##
+## Preheat the Oven (Day Two, 9:00am) ##
 
-remove dough from fridge and preheat oven & dutch oven @ 500f
+Remove dough from fridge and preheat oven & dutch oven @ 500f
 
 
-## Bake with Steam ##
+## Bake with Steam (Day Two, 10:00am) ##
 
 Bake for 15 minutes
 
-## Final Bake ##
+## Final Bake (Day Two, 10:15am) ##
 
 remove cover and reduce temperature to 450f
 bake for 20 minutes @ 450f
 
 check and bake for an additional 5 minutes if needed / desired 
 
-## Cool ##
+## Cool (Day Two, 10:45am) ##
 
-## Eat ##
+## Eat (Day Two, 12:45pm) ##
