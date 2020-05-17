@@ -20,8 +20,9 @@ transfer to bulking container
 rest for 30 minutes
 stretch and fold
 rest 30 minutes
-stretch and fold
+coil fold
 rest 30 minutes
+coil fold
 rest 1 hour
 
 Shape into fougasse
