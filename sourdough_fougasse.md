@@ -18,4 +18,15 @@ mix on 2 for 5 minutes
 
 transfer to bulking container
 rest for 30 minutes
+stretch and fold
+rest 30 minutes
+stretch and fold
+rest 30 minutes
+rest 1 hour
+
+Shape into fougasse
+let rise 1 hour covered in double baking sheet configuration
+
+lightly sprinkle with salt
+bake at 450 for 20-25 minutes
 
