@@ -29,5 +29,7 @@ Shape into fougasse
 let rise 1 hour covered in double baking sheet configuration
 
 lightly sprinkle with salt
-bake at 450 for 20-25 minutes
+bake at 450 for 10 minutes under baking sheet cover
+then bake at 450 for another 15 minutes or longer if desired
+
 
