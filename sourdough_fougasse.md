@@ -2,7 +2,7 @@
 
 Dough:
 
-* 90g-100g discard sourdough starter
+* 70g-80g discard sourdough starter
 * 200g white bread flour
 * 50g red bread flour
 * 5g salt
