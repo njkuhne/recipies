@@ -1,12 +1,14 @@
-# Recipe for 1 Sourdough Boule
+# Recipe for one sourdough boule
 
-Using my sourdough starter recipe found [here](sourdough_starter.md)
+![Sesame Sourdough](images/sesame_sourdough.jpeg)
+
+**Using my sourdough starter recipe found [here](sourdough_starter.md)**
 
 ### Some tips to remember as your make this recipe ###
 1. Bread making is much more about technique than ingredients. Do not rush or skip steps, and don't be afraid to find resources to understand each technique. 
 2. Your dough is going to feel very wet, and in the beginning very sticky. Do not add any flour, or any other ingredients to this recipe, it will come together, trust the process.
 3. Temperature and times are all critical to this dough rising and eventually forming a great bread. The process here is slow, and results in delicious bread, but all steps are needed, nothing can be skipped.
-4. Air Kills your dough by removing moisture and allowing crusts to form, keep your dough and levain covered as much as possible throughout the bread making. 
+4. Air kills your dough by removing moisture and allowing crusts to form, keep your dough and levain covered as much as possible throughout the bread making. 
 
 ## Timing ##
 I have assembled a timing guide that should work with most peoples daily schedules and results in as little work as possible though the 27+ hour process.
@@ -128,15 +130,20 @@ Begin:
 9. Coil fold the dough (Day One, 3:45pm)
 10. Rest for 30 minutes
 11. Coil fold the dough (Day One, 4:15pm)
-12. Rest covered in a warm location for remainder of time until Preshaping (for 1.5 hours)
+12. Rest covered in a warm location for remainder of time until Pre-shaping (for 1.5 hours)
 
-## Preshape the Dough (Day One, 6:45pm) ##
+## Pre-shape the Dough (Day One, 6:45pm) ##
 
 **For all shaping you will need to master a technique using your kitchen countertop and a baking bench scraper, which will allow you to shape your dough into a taught ball**
 
 Remove your dough from the container and place it onto a flat, clean, un-floured, dry, room temperature surface, like a kitchen countertop.
 
-Stretch the dough out into a rectangle and fold in the left and right sides, then 
+To pre-shape the boule:
+
+1. Stretch the dough out into a square about a foot wide
+2. Mentally dividing the dough into 3 tall rectangles, fold the left side over the middle and pat down gently 
+3. then fold or role the elongated rectangle.
+1. Place 6h 
 
 #### Shaping into a ball ####
 
@@ -158,8 +165,20 @@ Cover and put into fridge for max 12 hours
 
 ## Preheat the Oven (Day Two, 9:00am) ##
 
-Remove dough from fridge and preheat oven & dutch oven @ 500f
+Placing your dutch oven inside of your oven, preheat your oven to 500f for 1 hour.
+You want the oven hot, and the dutch oven hot, so let this time go far past the preheat bell on your oven.
 
+## Preparing to bake and Scoring (Day Two, 9:55am) ##
+
+**Using a bread lame, score your boule in any particular pattern you like.**
+
+*A 'lame' is a tool used for scoring bread. It typically consists of a razor blade, with a handle for articulation*
+
+Tips for scoring:
+
+* Cut with a slashing motion, don't hack at the dough like you would if you were using a saw or a bread knife, one single confident motion is what you want.
+* You should be aiming for a cut of about half an inch or less, you want to get into the bread however you don't want to destroy the structure.
+* Cutting straight down will open the bread up just fine, however cutting while holding the blade on an angle will cause one of the sides to lift and peal back, creating an 'ear' which is quite desirable.
 
 ## Bake with Steam (Day Two, 10:00am) ##
 
@@ -174,9 +193,9 @@ check and bake for an additional 5 minutes if needed / desired
 
 ## Cool (Day Two, 10:45am) ##
 
-It will be tempting, but just let it cool for 2 hours. A wirerack is best to allow for air circulation.
+It will be tempting, but just let it cool for 2 hours. A wire rack is best to allow for air circulation.
 
-## Eat ## (Day Two, 12:45pm)
+## Eat (Day Two, 12:45pm) ##
 
 The step that needs no explanation
 
