@@ -2,7 +2,7 @@
 
 Dough:
 
-* 70g-80g discard sourdough starter
+* 90g discard sourdough starter
 * 200g white bread flour
 * 50g red bread flour
 * 5g salt
@@ -42,6 +42,6 @@ using your bench scraper, make 4 parallel cuts in the middle of the dough making
 let rise 1 hour covered in double baking sheet configuration
 
 bake at 450 for 10 minutes under baking sheet cover
-then bake at 450 for another 15 minutes or longer if desired
+then bake at 450 for another 15-20 minutes to desired crispness
 
 
