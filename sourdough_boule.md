@@ -174,4 +174,12 @@ check and bake for an additional 5 minutes if needed / desired
 
 ## Cool (Day Two, 10:45am) ##
 
-## Eat (Day Two, 12:45pm) ##
+It will be tempting, but just let it cool for 2 hours. A wirerack is best to allow for air circulation.
+
+## Eat ## (Day Two, 12:45pm)
+
+The step that needs no explanation
+
+## Store ##
+
+If there is any left, let it completely cool and then wrap in plastic wrap or aluminum foil. You can use breadboxes or tupperware, just ensure that it is an airtight seal. Consume within a couple days. 
