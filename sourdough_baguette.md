@@ -27,7 +27,7 @@ Autolyse dough and let levan ripen for 5 hours
 * Rest for 20 minutes
 * 5 minutes on 1
 * 5 minutes on 2
-* rest 5 minutes
+* rest 15 minutes
 
 **Bulk fermentation**
 
