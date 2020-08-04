@@ -1,18 +1,18 @@
 # Recipe for one Sourdough Brioche
 
 
-## Make the Stiff Levain (Day One, 9:00am) ##
+## Make the Stiff Levain (Day One, 8:00pm) ##
 
 #### Levain Ingredients ####
 * 70 grams Unbleached Bread Flour
 * 20 grams Sourdough Starter
 * 30 grams Tepid Water
 
-Mix the levain and knead until smooth (2 minutes), then let sit covered in a warm part of your house (**24 degrees celsius is best**) until doubled in size (roughly 5 hours)
+Mix the levain and knead until smooth (2 minutes), then let sit covered at room temperature overnight.
 
 
 
-## Make the Main Dough (Day One, 2:00pm) ##
+## Make the Main Dough (Day Two, 8:00am) ##
 
 #### Dough Ingredients ####
 * 100 grams of the pre-made stiff levain
@@ -26,12 +26,12 @@ Mix this dough in a stand mixer on the lowest speed for **1-2 minutes** until co
 Begin adding **160 grams of softened butter** in small bits while continuing to mix on the lowest speed until all incorporated, then increase speed again and mix for **2 minutes**.
 
 
-## Warm Fermentation (Day One, 2:20pm) ##
+## Warm Fermentation (Day Two, 8:20am) ##
 
 Place in a container that is lightly greased, and let sit at room temperature until **doubled in size** (6-8 hours depending on temperature)
 
 
-## Cold Fermentation (Day One, 9:30pm) ##
+## Cold Fermentation (Day Two, ~3:00 - 4:00pm) ##
 
 Punch down the dough, and cover tightly. Place in fridge overnight.
 
@@ -50,7 +50,7 @@ Place the 8 dough balls into a lightly greased loaf pan, in 2 rows of 4.
 
 ## Final Rise (Day Two, 8:30am) ##
 
-Lightly egg wash the dough, loosely cover and place in a draft-free location at room temperature for 6 hours
+Lightly egg wash the top of the dough balls, loosely cover and place in a draft-free location at room temperature for 6 hours
 
 ## Bake (Day Two, 2:30pm) ##
 
