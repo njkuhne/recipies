@@ -35,11 +35,11 @@ Place in a container that is lightly greased, and let sit at room temperature un
 
 Punch down the dough, and cover tightly. Place in fridge overnight.
 
-## Warming (Day Two, 8:00am) ##
+## Warming (Day Three, 8:00am) ##
 
 Remove the dough from the fridge and let warm slightly on your counter for **15 minutes**. 
 
-## Preshaping (Day Two, 8:15am) ##
+## Preshaping (Day Three, 8:15am) ##
 
 Remove the dough from your container, and place on a lightly floured work surface. 
 
@@ -48,11 +48,11 @@ Divide the dough into 8 equal pieces, rolling each into a ball.
 Place the 8 dough balls into a lightly greased loaf pan, in 2 rows of 4.
 
 
-## Final Rise (Day Two, 8:30am) ##
+## Final Rise (Day Three, 8:30am) ##
 
-Lightly egg wash the top of the dough balls, loosely cover and place in a draft-free location at room temperature for 6 hours
+Lightly egg wash the top of the dough balls, loosely cover and place in a draft-free location at room temperature for 8 hours
 
-## Bake (Day Two, 2:30pm) ##
+## Bake (Day Three, 4:30pm) ##
 
 Egg wash again before baking.
 
