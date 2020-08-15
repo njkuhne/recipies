@@ -55,9 +55,9 @@ Mix together that main dough ingredients until all of the flour and salt has bee
 Cover and store in the same area / temperature as the Levain  
 
 #### Main Dough Ingredients ####
-* 315g Unbleached Bread Flour
-* 100g Red Wheat Flour
-* 280g Tepid Water
+* 300g Unbleached Bread Flour
+* 100g Whole Wheat Flour
+* 300g Tepid Water
 * 10g Salt
 
 
@@ -142,8 +142,8 @@ To pre-shape the boule:
 
 1. Stretch the dough out into a square about a foot wide
 2. Mentally dividing the dough into 3 tall rectangles, fold the left side over the middle and pat down gently 
-3. then fold or role the elongated rectangle.
-1. Place 6h 
+3. mentally diving the dough into 3 squares, fold the dough into one square boy folding the 2 sides into the centre.
+4. place back in your container, covered, and let rest for 15 minutes.
 
 #### Shaping into a ball ####
 
